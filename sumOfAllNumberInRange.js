@@ -16,7 +16,7 @@ function sumAll(arr) {
 		
 	});*/
 
-	return bestArray;
+	//return bestArray;
 
 }
 
